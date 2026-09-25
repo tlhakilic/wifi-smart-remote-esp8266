@@ -1,6 +1,6 @@
-📱 ESP8266 ile Telefonunuzu Akıllı Kumandaya Dönüştürün
+📱 Transform your Phone Into A Smart TV Remote
 
-Transform your smartphone into a universal web-based smart remote control! This project uses an ESP8266 board and an Infrared (IR) emitter LED to trigger your TV and Smart Lighting commands right from your mobile browser—no extra mobile app required.
+Transform your smartphone or other devices into a universal web-based smart remote control! This project uses an ESP8266 board and an Infrared (IR) emitter LED to trigger your TV and Smart Lighting commands right from your mobile browser—no extra mobile app required.
 
 📑 English
 📱 Features
